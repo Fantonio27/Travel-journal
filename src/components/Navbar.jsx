@@ -1,7 +1,7 @@
 export default function Navbar(){
     return(
         <>
-            <h3>Navbar this</h3>
+            <p>my travel journal.</p>
         </>
     )
 }
