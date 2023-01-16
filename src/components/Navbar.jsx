@@ -1,7 +1,7 @@
 export default function Navbar(){
     return(
-        <>
-            <p>my travel journal.</p>
-        </>
+        <nav>
+            <img src="https://img.icons8.com/android/24/FFFFFF/globe.png"/><p>my travel journal.</p>
+        </nav>
     )
 }
