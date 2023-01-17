@@ -23,6 +23,7 @@ body{
   width: 550px;
   border-radius: 5px;
   height: 704px;
+  background-color: white;
 }
 
 nav{
@@ -36,6 +37,7 @@ nav{
   letter-spacing: -0.075em;
   color: white;
   border-radius: 5px 5px 0px 0px;
+  margin-bottom: 40px;
 }
 
 nav img{
@@ -46,7 +48,7 @@ nav img{
 
 main{
   background-color: white;
-  padding: 40px 40px;
+  padding: 0px 40px;
   display: flex;
   flex-direction: column;
 }
@@ -81,7 +83,7 @@ main{
   margin-bottom: 9px;
 }
 
-.container-info p, p1{
+.container-info p, .p1{
   font-weight: 400;
   font-size: 11px;
   color: #2B283A;
